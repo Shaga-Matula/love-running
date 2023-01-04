@@ -122,13 +122,11 @@ h1, h2 {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: silver;
 }
 
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
 }
 
 hr {
@@ -143,4 +141,26 @@ hr {
     line-height: 20px;
     clear: both;
     margin: 50px;
+}
+.right-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin: 50px;
+}
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+#circle-container{
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
 }
