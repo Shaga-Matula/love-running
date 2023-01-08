@@ -363,6 +363,7 @@ footer {
     .left-about-heading h2 {
         width: 100%;
         text-align: center;
+       
     }
 
     .right-about-heading p,
@@ -380,6 +381,10 @@ footer {
 
         #photos {
             column-count: 2;
+        }
+        .right-about-heading h2,
+        .left-about-heading h2 {
+            font-size: 1.35em;
         }
     }
 }
