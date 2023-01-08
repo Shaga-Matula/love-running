@@ -380,11 +380,12 @@ footer {
     @media screen and (max-width: 800px) {
 
         #photos {
+
             column-count: 2;
         }
         .right-about-heading h2,
         .left-about-heading h2 {
-            font-size: 1.25em;
+            font-size: .75em;
         }
     }
 }
